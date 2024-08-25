@@ -1,0 +1,4 @@
+linux:
+  links:
+    foot.ini: ~/.config/foot/foot.ini
+    catppuccin-mocha.ini: ~/.config/foot/catppuccin-mocha.ini

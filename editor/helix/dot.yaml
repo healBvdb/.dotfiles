@@ -1,0 +1,7 @@
+linux:
+  links:
+    config.toml: ~/.config/helix/config.toml
+
+windows:
+  links:
+    config.toml: ~\AppData\Roaming\helix\config.toml

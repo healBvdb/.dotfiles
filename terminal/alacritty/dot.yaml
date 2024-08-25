@@ -1,0 +1,9 @@
+linux:
+  links:
+    alacritty.toml: ~/.config/alacritty/alacritty.toml
+    catppuccin-mocha.toml: ~/.config/alacritty/catppuccin-mocha.toml
+
+windows:
+  links:
+    alacritty.toml: ~\AppData\Roaming\alacritty\alacritty.toml
+    catppuccin-mocha.toml: ~\AppData\Roaming\alacritty\alacritty.toml

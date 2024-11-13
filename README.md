@@ -9,7 +9,7 @@ Rotz config files to manage my dotfiles across linux and windows
 
 ### Install all dotfiles
 
-ccd to user directory `cd`
+cd to user directory `cd`
 
 Install all dotfiles
 
@@ -21,4 +21,4 @@ cd to user directory `cd`
 
 Install for example helix
 
-`rotz link /terminal/helix`
+`rotz link /editor/helix`
